@@ -1,5 +1,5 @@
 <h1 align="center">Hello World👋</h1>
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 
 <a href="https://t.me/general_java" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="telegram" height="30" width="30" /></a>
 
@@ -38,4 +38,5 @@
     </td>
 </table>
 
+## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeneralPashon&theme=github_dark)
