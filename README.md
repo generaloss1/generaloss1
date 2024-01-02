@@ -12,4 +12,33 @@
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=GeneralPashon&show_icons=true&locale=en&layout=compact&theme=dark" height="160px"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeneralPashon&theme=github_dark)
+
+## Languages and Tools 🧰
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.java.com/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+      </a>
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <a href="https://en.wikipedia.org/wiki/C%2B%2B">
+        <img src="https://cdn.worldvectorlogo.com/logos/c.svg" width="48" height="48" alt="C++"/>
+      </a>
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.linux.org/" >
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
+      </a>
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.arduino.cc/" >
+        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="48" height="48" alt="Arduino" />
+      </a>
+      <br>Arduino
+    </td>
+</table>
