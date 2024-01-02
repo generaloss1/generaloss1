@@ -30,6 +30,12 @@
       <br>C++
     </td>
     <td align="center" width="96">
+      <a href="https://www.android.com/" >
+        <img src="https://www.svgrepo.com/show/7115/android.svg" width="48" height="48" alt="Android" />
+      </a>
+      <br>Android
+    </td>
+    <td align="center" width="96">
       <a href="https://www.linux.org/" >
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
       </a>
