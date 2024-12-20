@@ -1,7 +1,7 @@
 <h1 align="center">Hello, World👋</h1>
 <h2 align="left">Connect with me:</h2>
 
-<a href="https://t.me/general_java" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="telegram" height="30" width="30" /></a>
+<a href="https://t.me/generalosss" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="telegram" height="30" width="30" /></a>
 
 ## Languages and Tools 🧰
 <table>
@@ -39,4 +39,4 @@
 </table>
 
 ## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeneralPashon&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=generaloss1&theme=github_dark)
